@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey 👋, I'm [Edoardo Tosin](https://github.com/EdoardoTosin)!
+
+- 🔭 I’m currently working on [edoardotosin.github.io](https://edoardotosin.github.io/)
+- 🌱 I’m currently learning C/C++
+- 📫 How to reach me:
+  - Matrix group: [#edoardotosin.github.io:matrix.org](https://matrix.to/#/#edoardotosin.github.io:matrix.org)
+  - Mail: [edoardotosin[at]techie[dot]com](mailto:edoardotosin@techie.com)
+  - Twitter: [@EdoardoTosin](https://twitter.com/edoardotosin)
 
 <!--
 **EdoardoTosin/edoardotosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
