@@ -1,6 +1,5 @@
 ### Hey 👋, I'm [Edoardo Tosin](https://github.com/EdoardoTosin)!
 
-- 🔭 I’m currently working on [edoardotosin.github.io](https://edoardotosin.github.io/)
 - 🌱 I’m currently learning C/C++
 - 📫 How to reach me:
   - Matrix group: [#edoardotosin.github.io:matrix.org](https://matrix.to/#/#edoardotosin.github.io:matrix.org)
@@ -22,3 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![Edoardo Tosin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edoardotosin&count_private=true&show_icons=true&theme=dark&border_radius=10&border_color=185)
