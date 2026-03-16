@@ -1,20 +1,27 @@
-<div align="center"><table><tr><th>Social</th></tr><tr><td><table><thead><tr><th>eMail</th><th>Mastodon</th><th>Mastodon</th><th>Bluesky</th></tr></thead><tbody><tr><td><a href="mailto:edoardotosindev@proton.me"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=ProtonMail&labelColor=0d1117&color=1182c3&label=%20" alt="Email" /></a></td><td><a href="https://mastodon.social/@edoardotosin"><img src="https://img.shields.io/static/v1?message=Mastodon&style=for-the-badge&logo=Mastodon&labelColor=0d1117&color=1182c3&label=%20" alt="Mastodon" /></a></td><td><a href="https://infosec.exchange/@edoardotosin"><img src="https://img.shields.io/static/v1?message=Mastodon&style=for-the-badge&logo=Mastodon&labelColor=0d1117&color=1182c3&label=%20" alt="Mastodon" /></a></td><td><a href="https://bsky.app/profile/edoardotosin.com"><img src="https://img.shields.io/static/v1?message=Bluesky&style=for-the-badge&logo=Bluesky&labelColor=0d1117&color=1182c3&label=%20" alt="Bluesky" /></a></td></tr></tbody></table></td></tr></table></div>
+<div align="center">
+
+# Edoardo Tosin
+
+**Software Developer · Security Researcher · Open Source**
+
+Writing about Linux, security, self-hosting, open source software, and astrophotography.
 
 <br>
 
-<div align="center"><table><tr><th>Public Keys fingerprint</th></tr><tr><td><table><thead><tr><th>eMail Signing</th><th>Git Commits</th></tr></thead><tbody><tr><td><a href="https://raw.githubusercontent.com/EdoardoTosin/edoardotosin/main/signed-email-1c00582d51210dc815166d67d2da678db99dc787.asc"><img src="https://img.shields.io/badge/D2DA%20678D%20B99D%20C787-PGP?style=for-the-badge&label=PGP&labelColor=0d1117&color=1182c3" title="PGP Public Key" alt="PGP"></a></td><td><a href="https://raw.githubusercontent.com/EdoardoTosin/edoardotosin/main/signed-commits-e11888c2ac5f9da4edc42299b1f7877739614df0.asc"><img src="https://img.shields.io/badge/B1F7%208777%203961%204DF0-GPG?style=for-the-badge&label=GPG&labelColor=0d1117&color=1182c3" title="GPG Public Key" alt="GPG"></a></td></tr></tbody></table></td></tr></table></div>
+[![Mastodon](https://img.shields.io/badge/Mastodon-infosec.exchange-1182c3?style=for-the-badge&logo=Mastodon&logoColor=white)](https://infosec.exchange/@edoardotosin)
+[![Mastodon](https://img.shields.io/badge/Mastodon-mastodon.social-1182c3?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@edoardotosin)
+[![Bluesky](https://img.shields.io/badge/Bluesky-edoardotosin.com-1182c3?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/edoardotosin.com)
 
-<!--
-**EdoardoTosin/edoardotosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/badge/Website-edoardotosin.com-1182c3?style=for-the-badge&logo=Firefox&logoColor=white)](https://edoardotosin.com)
+[![Email](https://img.shields.io/badge/Email-ProtonMail-1182c3?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:edoardotosindev@proton.me)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Public Keys</h3>
+
+| Purpose | Type | Full Fingerprint |
+|:---|:---|:---|
+| Email Signing | [`PGP`](https://raw.githubusercontent.com/EdoardoTosin/edoardotosin/main/signed-email-1c00582d51210dc815166d67d2da678db99dc787.asc) | `1C00 582D 5121 0DC8 1516  6D67 D2DA 678D B99D C787` |
+| Git Commits | [`GPG`](https://raw.githubusercontent.com/EdoardoTosin/edoardotosin/main/signed-commits-e11888c2ac5f9da4edc42299b1f7877739614df0.asc) | `E118 88C2 AC5F 9DA4 EDC4  2299 B1F7 8777 3961 4DF0` |
+
+</div>
